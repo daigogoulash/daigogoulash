@@ -8,7 +8,8 @@
 
 <body>
 
-  <h1>Hello< I'm Diego! 👋</h1>
+  <h1>Hello, I'm Diego! 👋</h1>
+  <h1><a href=https://www.linkedin.com/in/diego-gerlach-38308bb2/>LinkedIn</a>!</h1>
 
   <h2>About Me</h2>
   <p>
