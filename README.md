@@ -1,14 +1,49 @@
-<h1 align="center">Hi , I'm Diego!</h1>
-<h3 align="center">A Computer Science masters student with a background in Business and Finance.</h3>
+<!DOCTYPE html>
+<html lang="en">
 
-- 📫 How to reach me **diegogerlach312@gmail.com**
+<head>
+  <meta charset="UTF-8">
+  
+</head>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/diego-gerlach-38308bb2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-gerlach-38308bb2" height="30" width="40" /></a>
-</p>
+<body>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+  <h1>Hello< I'm Diego! 👋</h1>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daigogoulash&show_icons=true&locale=en&layout=compact" alt="daigogoulash" /></p>
+  <h2>About Me</h2>
+  <p>
+    I'm a Computer Science Masters student passionate about Technology, Blockchain, Crypto & fitness. I have a background in Project Management, Business Administration & FInance, I thrive on fast learning and continuous work to achieve my goals.
+  </p>
+
+ <h2>Connect with Me</h2>
+  <p>
+    Feel free to connect with me on <a href=https://www.linkedin.com/in/diego-gerlach-38308bb2/>LinkedIn</a>!
+  </p>
+
+
+  <h2>Skills and Tools</h2>
+  <ul>
+    <li><strong>Programming Languages:</strong> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+</li>
+    <li><strong>Technologies:</strong> </li>
+    <li><strong>Tools:</strong> VScode</li>
+  </ul>
+
+  <h2>Interests</h2>
+  <p>
+    In my spare time, I love to exercise and teach others about fitness & exploring new technologies.
+  </p>
+
+ 
+
+  <h2>Currently Working On</h2>
+  <p>
+    I'm currently focused on finishing my Masters degree.
+  </p>
+
+</body>
+
+</html>
