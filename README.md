@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>GitHub Profile README</title>
+
 </head>
 
 <body>
