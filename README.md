@@ -17,7 +17,7 @@
 
   <h2>Skills and Tools</h2>
   <ul>
-    <li><strong>Programming Languages:</strong> Python, R </li>
+    <li><strong>Programming Languages:</strong> Python, R, SQL </li>
    
   </ul>
 
