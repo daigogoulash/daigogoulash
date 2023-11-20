@@ -9,7 +9,6 @@
 <body>
 
   <h1>Hello, I'm Diego! 👋</h1>
-  <h2><a href=https://www.linkedin.com/in/diego-gerlach-38308bb2/>LinkedIn</a></h2>
 
   <h2>About Me</h2>
   <p>
@@ -29,8 +28,7 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
 </li>
-    <li><strong>Technologies:</strong> </li>
-    <li><strong>Tools:</strong> VScode</li>
+  
   </ul>
 
   <h2>Interests</h2>
