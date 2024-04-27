@@ -26,7 +26,7 @@
     <li><strong>Programming Languages:</strong> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
-<img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" alt="JavaScript">
+<img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript" alt="JavaScript">
 </li>
   
   </ul>
@@ -40,7 +40,7 @@
 
   <h2>Currently Working On</h2>
   <p>
-    I'm currently focused on finishing my Masters degree.
+    I'm currently focused on finishing my Masters degree & obtaning Google's associate cloud engineer certification.
   </p>
 
 </body>
