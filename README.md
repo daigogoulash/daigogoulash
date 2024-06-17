@@ -12,7 +12,7 @@
 
   <h2>About Me</h2>
   <p>
-    I'm a Computer Science Masters student passionate about Technology, Blockchain, Crypto & fitness. I have a background in Project Management, Business Administration & FInance, I thrive on fast learning and continuous work to achieve my goals.
+    I'm a Computer Science Masters student passionate about Technology, Blockchain, Crypto & fitness. I have a background in Project Management, Business Administration & Finance, I thrive on fast learning and continuous work to achieve my goals.
   </p>
 
  <h2>Connect with Me</h2>
